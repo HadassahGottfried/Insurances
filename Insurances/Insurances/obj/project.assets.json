@@ -434,9 +434,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Final Project\\Insurances\\Insurances\\Insurances.csproj",
-      "projectName": "Insurances",
-      "projectPath": "H:\\Final Project\\Insurances\\Insurances\\Insurances.csproj",
+      "projectUniqueName": "H:\\Final Project\\Insurances\\Insurances\\Server.csproj",
+      "projectName": "Server",
+      "projectPath": "H:\\Final Project\\Insurances\\Insurances\\Server.csproj",
       "packagesPath": "C:\\Users\\גוטפריד הדסה\\.nuget\\packages\\",
       "outputPath": "H:\\Final Project\\Insurances\\Insurances\\obj\\",
       "projectStyle": "PackageReference",
