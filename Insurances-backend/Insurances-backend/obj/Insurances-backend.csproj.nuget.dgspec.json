@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hadas\\OneDrive\\Documents\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj": {}
+    "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hadas\\OneDrive\\Documents\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj": {
+    "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hadas\\OneDrive\\Documents\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
+        "projectUniqueName": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
         "projectName": "Insurances-backend",
-        "projectPath": "C:\\Users\\hadas\\OneDrive\\Documents\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
-        "packagesPath": "C:\\Users\\hadas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hadas\\OneDrive\\Documents\\Insurances\\Insurances-backend\\Insurances-backend\\obj\\",
+        "projectPath": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
+        "packagesPath": "C:\\Users\\חיה וקסלשטיין\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Insurances-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hadas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\חיה וקסלשטיין\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
