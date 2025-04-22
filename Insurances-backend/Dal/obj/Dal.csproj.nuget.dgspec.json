@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Dal\\Dal.csproj": {}
+    "H:\\פרויקט\\Insurances\\Insurances-backend\\Dal\\Dal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Dal\\Dal.csproj": {
+    "H:\\פרויקט\\Insurances\\Insurances-backend\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Dal\\Dal.csproj",
+        "projectUniqueName": "H:\\פרויקט\\Insurances\\Insurances-backend\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Dal\\Dal.csproj",
-        "packagesPath": "C:\\Users\\חיה וקסלשטיין\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\חיה וקסלשטיין\\Desktop\\chany\\finalProject\\Insurances\\Insurances-backend\\Dal\\obj\\",
+        "projectPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\וקסלשטיין דבורה חנה2\\.nuget\\packages\\",
+        "outputPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Dal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\חיה וקסלשטיין\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\וקסלשטיין דבורה חנה2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +49,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
