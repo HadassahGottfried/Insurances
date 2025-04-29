@@ -1,12 +1,52 @@
-# Ignore Visual Studio files
-.vs/
-.vscode/
-.idea/
-*.user
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
 *.suo
+*.user
 *.userosscache
 *.sln.docstates
 
-# Ignore build output directories
-bin/
-obj/
+# Visual Studio working folders
+.vs/
+.idea/
+
+# Auto-generated files
+Generated\ Files/
+
+# Build logs
+*.log
+
+# DotCover
+.idea/.dotCover
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Others
+*.dbmdl
+*.bak
+*.orig
+*.tmp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
