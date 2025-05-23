@@ -12,8 +12,4 @@
     <Folder Include="Service\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Dal\Dal.csproj" />
-  </ItemGroup>
-
 </Project>

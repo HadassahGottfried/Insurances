@@ -1685,33 +1685,6 @@
             "rid": "win"
           }
         }
-      },
-      "Bl/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Dal": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Bl.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Bl.dll": {}
-        }
-      },
-      "Dal/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4"
-        },
-        "compile": {
-          "bin/placeholder/Dal.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Dal.dll": {}
-        }
       }
     }
   },
@@ -5121,21 +5094,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Bl/1.0.0": {
-      "type": "project",
-      "path": "../Bl/Bl.csproj",
-      "msbuildProject": "../Bl/Bl.csproj"
-    },
-    "Dal/1.0.0": {
-      "type": "project",
-      "path": "../Dal/Dal.csproj",
-      "msbuildProject": "../Dal/Dal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bl >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Swashbuckle.AspNetCore >= 8.1.1"
@@ -5148,9 +5110,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
-      "projectName": "Insurances-backend",
-      "projectPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
+      "projectUniqueName": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\request.csproj",
+      "projectName": "request",
+      "projectPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\request.csproj",
       "packagesPath": "C:\\Users\\וקסלשטיין דבורה חנה2\\.nuget\\packages\\",
       "outputPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\obj\\",
       "projectStyle": "PackageReference",
@@ -5173,11 +5135,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "H:\\פרויקט\\Insurances\\Insurances-backend\\Bl\\Bl.csproj": {
-              "projectPath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Bl\\Bl.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

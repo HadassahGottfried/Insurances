@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OhH+KB9l7pw=",
+  "dgSpecHash": "iejCI04/XEU=",
   "success": true,
-  "projectFilePath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\Insurances-backend.csproj",
+  "projectFilePath": "H:\\פרויקט\\Insurances\\Insurances-backend\\Insurances-backend\\request.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\וקסלשטיין דבורה חנה2\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\וקסלשטיין דבורה חנה2\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
